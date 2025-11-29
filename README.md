@@ -46,7 +46,7 @@ Ce projet est distribué sous licence MIT.
 
 6. Structure du Projet
 
-'''text
+```text
 .
 ├── README.md
 ├── SAE24
