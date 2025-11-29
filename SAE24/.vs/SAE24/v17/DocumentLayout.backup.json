@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\tb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:tb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:ve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\nm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:nm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\nm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:nm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\ucNouvelleMissionEnginsSae24\\ucNouvelleMissionEnginsSae24\\UserControl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\ucNouvelleMissionPompierSae24\\ucNouvelleMissionPompierSae24\\UserControl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\gp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:gp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\gp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:gp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\ucnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:ucnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|c:\\users\\fabio le rigolo\\onedrive\\bureau\\but1\\a21\\sae24\\tb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD66D131-3701-4A3E-9197-27DAD5B98EB1}|SAE24.csproj|solutionrelative:tb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TB.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\TB.cs",
+              "RelativeDocumentMoniker": "TB.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\TB.cs",
+              "RelativeToolTip": "TB.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAmwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:47:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\ucNouvelleMissionEnginsSae24\\ucNouvelleMissionEnginsSae24\\UserControl1.cs",
+              "RelativeDocumentMoniker": "..\\ucNouvelleMissionEnginsSae24\\ucNouvelleMissionEnginsSae24\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\ucNouvelleMissionEnginsSae24\\ucNouvelleMissionEnginsSae24\\UserControl1.cs",
+              "RelativeToolTip": "..\\ucNouvelleMissionEnginsSae24\\ucNouvelleMissionEnginsSae24\\UserControl1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:40:13.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GP1.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\GP1.cs",
+              "RelativeDocumentMoniker": "GP1.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\GP1.cs",
+              "RelativeToolTip": "GP1.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAUwHoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:34:56.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GP1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\GP1.cs",
+              "RelativeDocumentMoniker": "GP1.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\GP1.cs [Design]",
+              "RelativeToolTip": "GP1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:29:58.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VE.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\VE.cs",
+              "RelativeDocumentMoniker": "VE.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\VE.cs [Design]",
+              "RelativeToolTip": "VE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:27:18.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TB.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\TB.cs",
+              "RelativeDocumentMoniker": "TB.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\TB.cs [Design]",
+              "RelativeToolTip": "TB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:25:55.174Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwDMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:11:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T16:00:15.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\ucNouvelleMissionPompierSae24\\ucNouvelleMissionPompierSae24\\UserControl1.cs",
+              "RelativeDocumentMoniker": "..\\ucNouvelleMissionPompierSae24\\ucNouvelleMissionPompierSae24\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\ucNouvelleMissionPompierSae24\\ucNouvelleMissionPompierSae24\\UserControl1.cs",
+              "RelativeToolTip": "..\\ucNouvelleMissionPompierSae24\\ucNouvelleMissionPompierSae24\\UserControl1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:01:45.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NM.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\NM.cs",
+              "RelativeDocumentMoniker": "NM.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\NM.cs",
+              "RelativeToolTip": "NM.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:48:22.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\NM.cs",
+              "RelativeDocumentMoniker": "NM.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\NM.cs [Design]",
+              "RelativeToolTip": "NM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:48:19.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucNav.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\ucNav.cs",
+              "RelativeDocumentMoniker": "ucNav.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\ucNav.cs [Design]",
+              "RelativeToolTip": "ucNav.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:00:53.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ST.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\ST.cs",
+              "RelativeDocumentMoniker": "ST.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\ST.cs [Design]",
+              "RelativeToolTip": "ST.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:58:25.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ST.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\ST.cs",
+              "RelativeDocumentMoniker": "ST.cs",
+              "ToolTip": "C:\\Users\\Fabio le Rigolo\\OneDrive\\Bureau\\BUT1\\a21\\SAE24\\ST.cs",
+              "RelativeToolTip": "ST.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswHoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:58:23.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

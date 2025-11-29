@@ -1,0 +1,194 @@
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\SAE24.csproj.AssemblyReference.cache
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\sae24_parcours_equipement.VE.resources
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\frmSinistreSAE24.frmSinistreSAE24.resources
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\frmSinistreSAE24.Properties.Resources.resources
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\frmSinistreSAE24.TB.resources
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\ucNavSae24.ucNav.resources
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\SAE24.csproj.GenerateResource.cache
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\SAE24.csproj.CoreCompileInputs.cache
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\frmSinistreSAE24.exe
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\frmSinistreSAE24.pdb
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\frmSinistreSAE24.exe.config
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\frmSinistreSAE24.exe
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\frmSinistreSAE24.pdb
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\itextsharp.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Syncfusion.Compression.Portable.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Syncfusion.Pdf.Portable.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Buffers.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Memory.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.ValueTuple.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucNavSae24.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucNouvelleMissionEnginsSae24.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucNouvelleMissionPompierSae24.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucTBMission.dll
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\itextsharp.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Syncfusion.Compression.Portable.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\Syncfusion.Pdf.Portable.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Buffers.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Memory.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\System.ValueTuple.xml
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucNavSae24.pdb
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucNouvelleMissionEnginsSae24.pdb
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucNouvelleMissionPompierSae24.pdb
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\bin\Debug\ucTBMission.pdb
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\SAE24.csproj.Up2Date
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\sae24_statistiques_vrai.ST.resources
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\sae24_gestion_des_pompiers.login.resources
+C:\Users\Fabio le Rigolo\OneDrive\Bureau\BUT1\a21\SAE24\obj\Debug\sae24_gestion_des_pompiers.Form1.resources
+U:\Bureau\SAE24\bin\Debug\frmSinistreSAE24.exe.config
+U:\Bureau\SAE24\bin\Debug\frmSinistreSAE24.exe
+U:\Bureau\SAE24\bin\Debug\frmSinistreSAE24.pdb
+U:\Bureau\SAE24\bin\Debug\BouncyCastle.Cryptography.dll
+U:\Bureau\SAE24\bin\Debug\itextsharp.dll
+U:\Bureau\SAE24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.dll
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Options.dll
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Primitives.dll
+U:\Bureau\SAE24\bin\Debug\Syncfusion.Compression.Portable.dll
+U:\Bureau\SAE24\bin\Debug\Syncfusion.Licensing.dll
+U:\Bureau\SAE24\bin\Debug\Syncfusion.Pdf.Portable.dll
+U:\Bureau\SAE24\bin\Debug\System.Buffers.dll
+U:\Bureau\SAE24\bin\Debug\System.Data.SQLite.dll
+U:\Bureau\SAE24\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+U:\Bureau\SAE24\bin\Debug\System.Memory.dll
+U:\Bureau\SAE24\bin\Debug\System.Numerics.Vectors.dll
+U:\Bureau\SAE24\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+U:\Bureau\SAE24\bin\Debug\System.Security.Cryptography.Pkcs.dll
+U:\Bureau\SAE24\bin\Debug\System.Text.Encoding.CodePages.dll
+U:\Bureau\SAE24\bin\Debug\System.Threading.Tasks.Extensions.dll
+U:\Bureau\SAE24\bin\Debug\System.ValueTuple.dll
+U:\Bureau\SAE24\bin\Debug\BouncyCastle.Cryptography.xml
+U:\Bureau\SAE24\bin\Debug\itextsharp.xml
+U:\Bureau\SAE24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.xml
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Options.xml
+U:\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Primitives.xml
+U:\Bureau\SAE24\bin\Debug\Syncfusion.Compression.Portable.xml
+U:\Bureau\SAE24\bin\Debug\Syncfusion.Pdf.Portable.xml
+U:\Bureau\SAE24\bin\Debug\System.Buffers.xml
+U:\Bureau\SAE24\bin\Debug\System.Data.SQLite.xml
+U:\Bureau\SAE24\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+U:\Bureau\SAE24\bin\Debug\System.Memory.xml
+U:\Bureau\SAE24\bin\Debug\System.Numerics.Vectors.xml
+U:\Bureau\SAE24\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+U:\Bureau\SAE24\bin\Debug\System.Security.Cryptography.Pkcs.xml
+U:\Bureau\SAE24\bin\Debug\System.Threading.Tasks.Extensions.xml
+U:\Bureau\SAE24\bin\Debug\System.ValueTuple.xml
+U:\Bureau\SAE24\bin\Debug\ucNavSae24.pdb
+U:\Bureau\SAE24\bin\Debug\ucNouvelleMissionEnginsSae24.pdb
+U:\Bureau\SAE24\bin\Debug\ucNouvelleMissionPompierSae24.pdb
+U:\Bureau\SAE24\bin\Debug\ucTBMission.pdb
+U:\Bureau\SAE24\obj\Debug\SAE24.csproj.AssemblyReference.cache
+U:\Bureau\SAE24\obj\Debug\sae24_gestion_des_pompiers.Form1.resources
+U:\Bureau\SAE24\obj\Debug\sae24_gestion_des_pompiers.login.resources
+U:\Bureau\SAE24\obj\Debug\sae24_statistiques_vrai.ST.resources
+U:\Bureau\SAE24\obj\Debug\sae24_parcours_equipement.VE.resources
+U:\Bureau\SAE24\obj\Debug\frmSinistreSAE24.frmSinistreSAE24.resources
+U:\Bureau\SAE24\obj\Debug\frmSinistreSAE24.Properties.Resources.resources
+U:\Bureau\SAE24\obj\Debug\frmSinistreSAE24.TB.resources
+U:\Bureau\SAE24\obj\Debug\ucNavSae24.ucNav.resources
+U:\Bureau\SAE24\obj\Debug\SAE24.csproj.GenerateResource.cache
+U:\Bureau\SAE24\obj\Debug\SAE24.csproj.CoreCompileInputs.cache
+U:\Bureau\SAE24\obj\Debug\SAE24.csproj.Up2Date
+U:\Bureau\SAE24\obj\Debug\frmSinistreSAE24.exe
+U:\Bureau\SAE24\obj\Debug\frmSinistreSAE24.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\frmSinistreSAE24.exe.config
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\frmSinistreSAE24.exe
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\frmSinistreSAE24.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\BouncyCastle.Cryptography.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\itextsharp.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Options.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Primitives.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Syncfusion.Compression.Portable.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Syncfusion.Licensing.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Syncfusion.Pdf.Portable.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Buffers.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Data.SQLite.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Memory.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Numerics.Vectors.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Security.Cryptography.Pkcs.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Text.Encoding.CodePages.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.ValueTuple.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\BouncyCastle.Cryptography.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\itextsharp.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Options.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Microsoft.Extensions.Primitives.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Syncfusion.Compression.Portable.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\Syncfusion.Pdf.Portable.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Buffers.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Data.SQLite.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Memory.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Numerics.Vectors.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Security.Cryptography.Pkcs.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\System.ValueTuple.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\ucNavSae24.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\ucNouvelleMissionEnginsSae24.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\ucNouvelleMissionPompierSae24.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\bin\Debug\ucTBMission.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\SAE24.csproj.AssemblyReference.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\SAE24.csproj.SuggestedBindingRedirects.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\sae24_gestion_des_pompiers.Form1.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\sae24_gestion_des_pompiers.login.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\sae24_statistiques_vrai.ST.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\sae24_parcours_equipement.VE.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\frmSinistreSAE24.frmSinistreSAE24.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\frmSinistreSAE24.Properties.Resources.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\frmSinistreSAE24.TB.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\ucNavSae24.ucNav.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\SAE24.csproj.GenerateResource.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\SAE24.csproj.CoreCompileInputs.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\SAE24.csproj.CopyComplete
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\frmSinistreSAE24.exe
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\SAE24\obj\Debug\frmSinistreSAE24.pdb
