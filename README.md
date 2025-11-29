@@ -46,39 +46,41 @@ Ce projet est distribué sous licence MIT.
 
 6. Structure du Projet
 
+'''text
 .
 ├── README.md
-└── SAE24
-    ├── App.config
-    ├── bin
-    ├── Connexion.cs
-    ├── GP1.cs
-    ├── GP1.Designer.cs
-    ├── GP1.resx
-    ├── login.cs
-    ├── login.Designer.cs
-    ├── login.resx
-    ├── mesDatas.cs
-    ├── NM.cs
-    ├── NM.Designer.cs
-    ├── NM.resx
-    ├── obj
-    ├── packages
-    ├── packages.config
-    ├── Program.cs
-    ├── Properties
-    ├── Resources
-    ├── SAE24.csproj
-    ├── SAE24.sln
-    ├── ST.cs
-    ├── ST.Designer.cs
-    ├── ST.resx
-    ├── TB.cs
-    ├── TB.Designer.cs
-    ├── TB.resx
-    ├── ucNav.cs
-    ├── ucNav.Designer.cs
-    ├── ucNav.resx
-    ├── VE.cs
-    ├── VE.Designer.cs
-    └── VE.resx
+├── SAE24
+│   ├── App.config
+│   ├── bin
+│   ├── Connexion.cs
+│   ├── GP1.cs
+│   ├── GP1.Designer.cs
+│   ├── GP1.resx
+│   ├── login.cs
+│   ├── login.Designer.cs
+│   ├── login.resx
+│   ├── mesDatas.cs
+│   ├── NM.cs
+│   ├── NM.Designer.cs
+│   ├── NM.resx
+│   ├── obj
+│   ├── packages
+│   ├── packages.config
+│   ├── Program.cs
+│   ├── Properties
+│   ├── Resources
+│   ├── SAE24.csproj
+│   ├── SAE24.sln
+│   ├── ST.cs
+│   ├── ST.Designer.cs
+│   ├── ST.resx
+│   ├── TB.cs
+│   ├── TB.Designer.cs
+│   ├── TB.resx
+│   ├── ucNav.cs
+│   ├── ucNav.Designer.cs
+│   ├── ucNav.resx
+│   ├── VE.cs
+│   ├── VE.Designer.cs
+│   └── VE.resx
+└── tree.txt
